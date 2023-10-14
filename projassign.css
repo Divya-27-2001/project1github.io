@@ -1,0 +1,43 @@
+.one{
+    position: relative;
+}
+.two{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(234, 153, 203);
+    position: absolute;
+    top: 100px;
+    left: 300px;
+    border: 8px solid rgb(225, 142, 156);
+    margin: auto;
+    padding: auto;
+    text-align: center;
+}
+input{
+    width: 400px;
+    border: none;
+    background-color: pink
+    ;
+    border-bottom: 2px solid rgb(173, 94, 107);
+    font-size: 20px;
+    border-bottom: 4px solid  rgb(136, 71, 82)  ;
+
+}
+button{
+    padding: 15px 30px;
+    color: white;
+    font-weight: bold;
+    background-color: rgb(96, 27, 38);
+    border: 2px solid white;
+}
+h1{
+    color: white;
+    font-weight: bold;
+    font-size: 35px;
+}
+pre{
+    width: 450px;
+    margin-left: 20px;
+    color: black;
+    font-size: medium;
+}
